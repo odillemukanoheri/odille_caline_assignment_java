@@ -2,8 +2,8 @@
 
 
 ## Group Members
-- Full Name 1 – Reg No
-- Full Name 2 – Reg No
+- Mukanoheri Odille -24rp00267
+- Niyoyita caline – 24RP06125
 
 
 ## Description
@@ -23,4 +23,6 @@ A Java Swing desktop application for managing course registration using JDBC and
 
 
 ## Screenshots
-(Add screenshots here)
+
+(<img width="959" height="506" alt="image" src="https://github.com/user-attachments/assets/eb78d686-2ed8-49e0-9064-765d07996fff" />
+)
